@@ -18,7 +18,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot"/>
 </p>
-============================================================================================
+========================================================================================
     
   ## ⚡ You can reach me here on GitHub! Also on Twitter! And Reddit as well!
 <p align="center">
