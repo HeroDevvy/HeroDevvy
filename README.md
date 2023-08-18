@@ -12,9 +12,9 @@
     </p>
 
 
-<p align="center">
+<p align="center", height="100px">
   I'm also a "wanna be" game developer, learned some GDSCRIPT for Godot Engine <br>
-  and planning on releasing around 3 games in the future! <br>
+  and planning on releasing around 3 games in the future! <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot"/>
 </p>
@@ -22,7 +22,7 @@
     
   ## ⚡ You can reach me here on GitHub! Also on Twitter! And Reddit as well!
 <p align="center">
-  (But reddit doesn't have an icon here)
+  (But reddit doesn't have an icon here, links on the side here ◀️)
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
