@@ -1,5 +1,5 @@
-Heyo! I'm HeroDev, 
-                  a newbie in Python programming that wants to learn more about AI and Machine Learning!
+Heyo! I'm HeroDev, \n
+a newbie in Python programming that wants to learn more about AI and Machine Learning!
 
 
 
